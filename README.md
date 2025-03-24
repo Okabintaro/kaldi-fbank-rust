@@ -3,6 +3,7 @@
 Minimal bindings for [kaldi-native-fbank](https://github.com/csukuangfj/kaldi-native-fbank).
 
 Still WIP. Only bound the things I needed.
+**NOTE:** This is unmaintained, I don't plan to work on this in the near future.
 
 Example: 
 
